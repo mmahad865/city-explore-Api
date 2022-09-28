@@ -1,0 +1,24 @@
+{
+  "name": "city-explore-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmahad865/city-explore-Api.git"
+  },
+  "author": "mahad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmahad865/city-explore-Api/issues"
+  },
+  "homepage": "https://github.com/mmahad865/city-explore-Api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1"
+  }
+}
